@@ -1,2 +1,3 @@
 # Sokoban-pathfinding
-A problem in Kattis OJ.
+
+Description of the problem refers to https://kth.kattis.com/problems/kth.ai.sokobanpathfinding.
