@@ -2,7 +2,7 @@
 
 Description of the problem refers to https://kth.kattis.com/problems/kth.ai.sokobanpathfinding.
 
-The core of the problem is BFS(Breadth First Search) algorithm on a binary array "vector<string>".
+The core of the problem is BFS(Breadth First Search) algorithm on a binary array.
 
 Note: 
 1. Get the map from input(string);
